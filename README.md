@@ -10,5 +10,6 @@
   <br>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><br><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sj0-0i&langs_count=8&layout=compact&theme=dark)](https://github.com/Sj0-0i/github-readme-stats)</div>

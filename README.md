@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hi!%20I'm%20Jiyoung!&fontAlign=50&fontAlignY=70&fontSize=80&fontColor=#FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hi!%20I'm%20JiYoung!&fontAlign=50&fontAlignY=50&fontSize=70&fontColor=#FFFFFF)
 
 <h3 align=center>Tech Stack</h3>
 <div align=center>

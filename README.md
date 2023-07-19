@@ -1,7 +1,7 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hi!%20I'm%20JiYoung!&fontAlign=50&fontAlignY=50&fontSize=70&fontColor=#FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=%20Jiyoung&fontAlign=50&fontAlignY=50&fontSize=70&fontColor=#FFFFFF)
 
-<h3 align=center>Tech Stack</h3>
+<h3 align=center>:sunny:Tech Stack:sunny:</h3>
 <div align=center>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -13,6 +13,7 @@
   <br>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sj0-0i&show_icons=true&theme=github_dark)
